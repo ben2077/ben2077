@@ -1,14 +1,21 @@
+# Hi, I’m Qi Zhu 😎
 
-This is Qi Zhu😎, aka Ben77.
+You can also call me **Ben77**.
 
+I’m a systems engineer 👨🏻‍💻 with experience in:
 
-I am a systems engineer 👨🏻‍💻 with experience in blockchain, trading systems, and distribute storage systems, passionately working towards web3.
+* Blockchain infrastructure
+* Trading systems
+* Distributed systems and protocol design
 
+I’m passionate about building the technical foundations of the future crypto economy.
 
-🙇🏻 I am studying everything about BTC and ZK.
+🙇🏻 My current interests lie at the intersection of **distributed systems, monetary systems, institutional design, and human coordination**.
 
-📫 How to reach me: codingqi@gmail.com | Linkedin.
+I study how protocols encode assumptions about **trust, incentives, knowledge, and collective decision-making**, and how these ideas can be turned into real-world systems.
 
-⚡ Fun fact: I do love synthwave🎤 and sociology📖.
+⚡ Fun fact: I love **synthwave** 🎤, sociology 📖, and thinking about how technical systems shape human behavior.
+
+📫 Reach me at: **[codingqi@gmail.com](mailto:codingqi@gmail.com)**
 
 ![Metrics](/github-metrics.svg)
